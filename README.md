@@ -7,10 +7,6 @@ MERN CRUD Responsive E-Commmerce website.
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Deployment](#deployment)
-- [Technologies Used](#technologies-used)
 
 ## Introduction
 
