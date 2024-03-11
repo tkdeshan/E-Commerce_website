@@ -1,6 +1,6 @@
-# MERN_CRUD_TkD_Auto_Website
+# E-Commmerce_Website
 
-MERN CRUD Responsive E-Commmerce website.
+E-Commmerce website for TkD Auto.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ MERN CRUD Responsive E-Commmerce website.
 
 ## Introduction
 
-MERN CRUD Responsive E-Commmerce website for TkD Auto with functions including signup, login, updating account details,browsing electronic items, managing shopping cart, viewing order history, accessing order details, and more. MERN is used to designed the website.
+Responsive E-Commerce Website with functions including signup, login, updating account details, browsing items, managing shopping cart, viewing order history, accessing order details, and more.
 
 ## Demo
 
