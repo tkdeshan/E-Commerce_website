@@ -1,6 +1,6 @@
 # E-Commmerce_Website
 
-E-Commmerce website for TkD Auto.
+E-Commmerce website for TkD Auto company.
 
 ## Table of Contents
 
